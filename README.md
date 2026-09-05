@@ -49,11 +49,11 @@
 </p>
 
 ---
-
-## 🔥 Contribution Streak
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Amittutorial&hide_border=true" alt="GitHub Streak"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" 
+       alt="GitHub Contribution Activity Graph">
 </p>
 
 ---
