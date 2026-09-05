@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amittutorial&label=Profile%20views&color=0e75b6&style=flat" alt="viewers" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amittutorial" alt="amittutorial" /></a> </p>
 
 - 🔭 I’m currently working on [ShopKart](https://github.com/Amittutorial/ShopKart-E-Commerce-Website)
 
