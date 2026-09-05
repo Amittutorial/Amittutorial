@@ -47,15 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Amittutorial&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amittutorial&layout=compact&hide_border=true" height="180"/>
 </p>
-
----
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" 
-       alt="GitHub Contribution Activity Graph">
-</p>
-
 ---
 
 ## 📈 Contribution Activity
