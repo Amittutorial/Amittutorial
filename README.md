@@ -1,60 +1,47 @@
 <h1 align="center">Hi 👋, I'm Amit Verma</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="center">Computer Science Engineering Student | Web Developer | Exploring Full-Stack Development 🚀</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amittutorial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amittutorial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amittutorial" alt="GitHub Profile Trophy" /></a> </p>
 
----
+* 🔭 I’m currently working on [ShopKart](https://github.com/Amittutorial/ShopKart-E-Commerce-Website)
 
-### 🚀 About Me
+* 🌱 I’m currently learning **Web Development 🚀**
 
-* 🔭 I’m currently working on **ShopKart – E-Commerce Website**
-* 🌱 I’m currently learning **Full-Stack Web Development**
-* 👯 I’m looking to collaborate on **Python Hospital Management System**
-* 🤝 I’m looking for help with **Portfolio Development**
-* 👨‍💻 All of my projects are available on **GitHub**
-* 💬 Ask me about **HTML | CSS | JavaScript | Java | Python | Web Development**
-* 📄 **Fresher | Computer Science Engineering Student**
-* ⚡ Fun fact: **I love building real-world projects and learning new technologies**
+* 👯 I’m looking to collaborate on [Python-Hospital-Management-System](https://github.com/Amittutorial/Python-Hospital-Management-System)
 
-### 🛠️ Languages and Tools
+* 🤝 I’m looking for help with [Portfolio](https://github.com/Amittutorial/portfolio)
 
+* 👨‍💻 All of my projects are available at https://github.com/Amittutorial/portfolio
+
+* 📝 I regularly write articles on https://www.instagram.com/debugger_cse
+
+* 💬 Ask me about **| HTML | CSS | JavaScript | Building Real-World Projects | Exploring Full-Stack Development**
+
+* 📫 How to reach me **[amitpatel42203@gmail.com](mailto:amitpatel42203@gmail.com)**
+
+* 📄 Know about my experiences [Fresher](Fresher)
+
+* ⚡ Fun fact **I am Engineering Student**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-verma-b529992ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://fb.com/https://m.facebook.com/profile.php?id=61577078242678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/debugger_cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@amitverma123.?si=aetujfkmdrtirrhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@amitpatel42203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/codewithamitx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
-### 📌 Featured Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-* 🛒 **ShopKart – E-Commerce Website**
-* 🏥 **Hospital Management System**
-* 💻 **Java Inventory Management System**
-* 🌐 **Personal Portfolio**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amittutorial&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-### 📊 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amittutorial&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amittutorial&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amittutorial&" alt="GitHub Streak" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amittutorial&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-### 🔗 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/amit-verma-b529992ab/">LinkedIn</a> |
-<a href="https://www.instagram.com/debugger_cse/">Instagram</a> |
-<a href="https://youtube.com/@amitverma123.">YouTube</a> |
-<a href="https://www.hackerrank.com/@amitpatel42203">HackerRank</a> |
-<a href="https://leetcode.com/u/codewithamitx/">LeetCode</a>
 </p>
