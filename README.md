@@ -9,7 +9,7 @@
 Hello! I'm Amit Verma, a Computer Science & Engineering student.
 
 - 🎓 B.Tech CSE
-- 💻 Learning Java, Python & C++
+- 💻 Learning Java & Python 
 - 🌐 Interested in Web Development
 - 🚀 Building projects and improving my coding skills
 - 🧠 Practicing problem solving every day
@@ -18,7 +18,7 @@ Hello! I'm Amit Verma, a Computer Science & Engineering student.
 
 ## 🛠️ Skills
 
-Java • C++ • C • Python • HTML • CSS • JavaScript • Git • GitHub/Amittutorial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java • C • Python • HTML • CSS • JavaScript • Git • GitHub/Amittutorial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
