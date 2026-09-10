@@ -1,284 +1,160 @@
-<h1 align="center">Hi 👋, I'm Amit Verma</h1>
+Namaste 🙏 I'm Akshit Sharma (aka AkshBuilds)
+
+I build high-performance websites & applications 🚀
+Helping creators and businesses grow faster through cutting-edge, scalable digital solutions.
 
-<h3 align="center">💻 Computer Science Engineering Student | Full-Stack Web Developer</h3>
+Profile Views Stars Followers
 
-<p align="center">
-  <a href="https://github.com/Amittutorial">
-    <img src="https://komarev.com/ghpvc/?username=Amittutorial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+AkshBuilds Website Gmail LinkedIn LeetCode
+📊 Website Metrics & Stats (akshbuilds.tech)
+🛠️ 10+
+Custom Projects Built
 
-<p align="center">
-  <a href="https://github.com/Amittutorial">
-    <img src="https://img.shields.io/github/followers/Amittutorial?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/Amittutorial?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge" alt="Projects"/>
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge" alt="LeetCode"/>
-  </a>
-</p>
+🔥 5k+
+Community Members
 
----
+⭐ 50+
+GitHub Stars
 
-## 🚀 About Me
+💡 ∞
+Ideas Generated
 
-👋 Hi, I'm **Amit Verma**, a Computer Science Engineering student passionate about **Web Development, Java, Full-Stack Development and Problem Solving**.
+💫 About Me
+Hey! I am Aksh, a full-stack developer dedicated to building high-performance web applications, optimizing backend architectures, and mastering algorithmic systems. I design, code, and deploy everything from scratch, focusing on scalability, security, and clean architecture.
 
-💻 I enjoy building practical projects from scratch and continuously improving my programming and development skills.
+🌱 Primary Focus: Full-stack web development, backend engineering, and system design.
+🌐 Mission: Designing, hosting, and sharing open-source web utilities and tools on akshbuilds.tech.
+⚡ Daily Practice: Solving Data Structures & Algorithms on LeetCode.
+💬 Languages: Fluent in Python, JavaScript, TypeScript, C++, Java, and SQL.
 
-🌱 Currently learning and exploring:
+🌟 Key Highlights
+🏆 1,000+ Contributions on GitHub active coding.
+♟️ Developed Premium-Chess Engine multiplayer game hub.
+⚡ Actively solving algorithm challenges on LeetCode.
+🚀 Creator & administrator of the utilities hub akshbuilds.tech.
 
-* 🌐 Full-Stack Web Development
-* ⚙️ Backend Development
-* ☕ Java & OOP
-* 🗄️ Database & SQL
-* 🧩 Data Structures & Algorithms
-* 🚀 Building real-world projects
+Developer ID Card Animation
+🛠️ Core Tech Stack
+⚛️ React Ecosystem
+React, Next.js, and Vite for building lightning-fast, interactive single page applications and user interfaces.
 
-🎯 **Goal:** Become a skilled Full-Stack Developer and build scalable, useful applications.
+🟢 Scalable Backends
+Building secure, high-throughput microservices using Node.js, Express, PostgreSQL, and low-latency WebSockets.
 
----
+⚙️ Database & DevOps
+Designing secure database schemas, configuring cloud hosting deployments, and optimizing API performance.
 
-## 🛠️ Tech Stack
-### 📚 Currently Learning
+Tech Stack
 
-### 💻 Programming Languages
+👾 Interactive Core Engineering Traces
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
-</p>
+[0x01] / Algorithms & Data Structures
+Designing optimal logical flow configurations. The BST lookup model visualizes binary splits and logarithmic execution heights.
 
-### 🌐 Web Development
+Time Complexity: Average 
+O
+(
+log
+⁡
+N
+)
+Space Complexity: Height bounds 
+O
+(
+H
+)
+Recursion call stack optimization
+BST Traversal Visualizer
+Backend Pipeline	
+[0x02] / Distributed Data mesh
+Visualizing full stack data traffic: Load balancer distribution routing client requests across app servers, Redis cache hits, and PostgreSQL database replication syncs.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
+Event loop request processing
+Sub-15ms p99 cache return rates
+Write replication sync pipelines
+[0x03] / Client UI State Compiler
+Refining user state interactions, processing rendering layout shifts at high frames, and updating style properties.
 
-### ⚙️ Backend & Database
+GPU-accelerated CSS animations
+Elimination of layout recalculation reflows
+Zero-latency DOM state propagation
+Frontend Designer UI
+🚀 Featured Personal Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
-</p>
+♟️ Premium-Chess Engine
+A highly responsive multiplayer online chess platform featuring real-time interactive game states, predictive move processing, and room matchmaking.
 
-### 🔧 Tools & Technologies
+React Node.js WebSockets
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+Repo Link Live Demo
 
----
+Chess Animation
+🏙️ Smart City Analytics
+Interactive dashboard modeling urban datasets (utility grids, vehicle flow, environmental loads) for smart city optimization.
 
-## 🚀 Featured Projects
+TypeScript React PostgreSQL
 
-### 🛒 ShopKart — E-Commerce Website
+Repo Link
 
-A responsive e-commerce website designed to provide a simple and convenient online shopping experience.
+City Animation
+👾 DSA Visualiser
+A web-based visual compiler rendering data structures and algorithm steps dynamically for better conceptual learning.
 
-**Features:**
+JavaScript HTML5 CSS3
 
-* 🛍️ Product browsing
-* 🔍 Product search
-* 📱 Responsive UI
-* 👤 User login & profile
-* 🛒 Shopping cart
-* 💳 Checkout flow
-* 📦 Order-related features
+Repo Link
 
-**Tech:** HTML • CSS • JavaScript
+DSA Visualizer Animation
+🕹️ Retro C Games
+A compilation of interactive logic game engines (Snake, Tetris, etc.) rendered entirely in C console command lines.
 
-🔗 **Repository:**
-https://github.com/Amittutorial/ShopKart-E-Commerce-Website
----
+C Shell
 
-### 📦 Java Inventory Management System
+Repo Link
 
-A console-based inventory management application developed using Java.
+Games Animation
+💬 Chatbot-Grok in C
+Custom rule-based command line conversational bot engineered using file buffers and state parsing in native C.
 
-**Features:**
+C
 
-* 🔐 Admin Login
-* ➕ Add Product
-* 👀 View Products
-* ✏️ Update Product
-* 🗑️ Delete Product
-* 🔎 Search Product
-* 📥 Stock In / Stock Out
-* 🧾 Bill Generation
-* 💳 Cash / UPI Payment
-* 🗄️ MySQL Database Integration
+Repo Link
 
-**Tech:** Java • MySQL
+Chatbot Animation
+💼 Web Development Services
+🖥️ Full-Stack Websites
+Sleek landing pages, complex SaaS applications, and robust e-commerce platforms. Tailored, blazing-fast, and responsive.
 
-🔗 **Repository:**
-https://github.com/Amittutorial/-Java-Inventory-Management-System
----
-
-### 🏦 Java Bank Management System
-
-A Java-based banking application with a graphical user interface.
+⚙️ Backend System Integration
+Building scalable APIs, microservices, and custom database structures to support high-traffic web applications.
 
-**Tech:** Java • Swing • MySQL
+🎨 Rapid UI Prototyping
+High-fidelity, responsive mockups and interactive components delivered in days to validate ideas instantly.
 
-🔗 **Repository:**
-https://github.com/Amittutorial/Java-Bank-Management-System
-
----
-### 📦 Python Hospital Management System
-
-A console-based hosptial management application developed using Java.
-
-**Features:**
-*🔐 Admin Login
-*➕ Add Patient
-*👀 View Patients
-*🔍 Search Patient
-*✏️ Update Patient Details
-*🗑️ Delete Patient
-*🚪 Patient Discharge
-*🧾 Bill Generation
-*💵 Cash Payment
-*📱 UPI Payment
-*💻 Simple Console-Based Interface
-
-**Tech:** Python • File Handling • CLI
-
-🔗 **Repository:**
-https://github.com/Amittutorial/Python-Hospital-Management-System
---
-
-
-## 🧩 Data Structures & Algorithms
-
-I regularly practice **Data Structures & Algorithms** to improve my problem-solving and logical thinking skills.
-
-### 📚 Currently Practicing
-
-* Arrays
-* Strings
-* Searching
-* Sorting
-* Linked List
-* Stack
-* Queue
-* Hashing
-* Recursion
-* Binary Search
-* Trees
-* Dynamic Programming
-
-🎯 **Practice Platform:** Leetcode 
+🔒 Advanced Web Security
+Built-in JWT authentication, strong API security layers, and OWASP compliance to keep user data secure.
 
----
-
-## 📊 GitHub Stats
+⚡ Developer Activity & Stats
+akshh-bhardwaj streak stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amittutorial&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
+ 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amittutorial&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+💡 LeetCode Performance
+LeetCode Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amittutorial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+🐍 GitHub Contributions Heatmap
+github contribution grid snake animation
 
----
 
-## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amittutorial/Amittutorial/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 📈 My Development Journey
-
-text
-HTML / CSS
-    ↓
-JavaScript
-    ↓
-Java & OOP
-    ↓
-Git & GitHub
-    ↓
-SQL & MySQL
-    ↓
-Frontend Development
-    ↓
-Backend Development
-    ↓
-Full-Stack Development 🚀
-```
-
----
-
-## 🌱 Currently Learning
-
-```text
-🔹 Full-Stack Web Development
-🔹 Backend Development
-🔹 REST APIs
-🔹 Database Management
-🔹 Java & Advanced OOP
-🔹 Data Structures & Algorithms
-🔹 System Design Basics
-```
-
----
-
-## 💡 What I Love Building
-
-🛒 E-Commerce Applications
-💻 Web Applications
-☕ Java Applications
-🗄️ Database Projects
-⚙️ Backend Systems
-🧩 DSA Solutions
-🚀 Real-World Projects
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Become a strong Full-Stack Developer
-* 💻 Build more real-world projects
-* 🧩 Solve more DSA problems
-* ☕ Improve Java & Backend skills
-* 🗄️ Master databases and APIs
-* 🌐 Deploy projects online
-* 🤝 Contribute to Open Source
-* 📈 Grow consistently on GitHub
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Amittutorial">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="www.linkedin.com/in/amit-verma-b529992ab">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/CodeWithAmitX/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">💻 Code • Learn • Build • Repeat 🚀</h3>
-
-<p align="center">
-⭐ Thanks for visiting my GitHub profile!
-</p>
+About
+No description, website, or topics provided.
+Resources
+Readme
+Activity
+Stars
+5 stars
+Watchers
+0 watching
+Forks
+3 forks
