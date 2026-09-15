@@ -72,10 +72,10 @@ I enjoy learning new technologies, building projects from scratch, and continuou
 <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Database Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
 </p>
 
 ### 🔧 Tools & Technologies
@@ -105,7 +105,7 @@ A responsive e-commerce website designed to provide a simple and convenient onli
 **Tech:** HTML • CSS • JavaScript
 
 🔗 **Repository:**
-https://github.com/Amittutorial/ShopKart-E-Commerce-Website
+[https://github.com/Amittutorial/ShopKart-E-Commerce-Website](https://github.com/Amittutorial/ShopKart-E-Commerce-Website)
 
 ---
 
@@ -129,8 +129,8 @@ A console-based inventory management application developed using Java.
 **Tech:** Java • OOP • MySQL
 
 🔗 **Repository:**
-https://github.com/Amittutorial/Java-Inventory-Management-System
-
+[https://github.com/Amittutorial/Java-Inventory-Management-System
+](https://github.com/Amittutorial/-Java-Inventory-Management-System)
 ---
 
 ## 🏦 Java Bank Management System
@@ -147,10 +147,10 @@ A Java-based banking application developed with a graphical user interface.
 * 💳 Check Balance
 * 🗄️ MySQL Database Integration
 
-**Tech:** Java • Swing • MySQL
+**Tech:** Java • Swing 
 
 🔗 **Repository:**
-https://github.com/Amittutorial/Java-Bank-Management-System
+[https://github.com/Amittutorial/Java-Bank-Management-System](https://github.com/Amittutorial/Java-Bank-Management-System)
 
 ---
 
@@ -172,10 +172,10 @@ A console-based hospital management application developed using Python.
 * 📱 UPI Payment
 * 💻 Simple Console-Based Interface
 
-**Tech:** Python • File Handling • CLI
+**Tech:** Python • File Handling 
 
 🔗 **Repository:**
-https://github.com/Amittutorial/Python-Hospital-Management-System
+[https://github.com/Amittutorial/Python-Hospital-Management-System](https://github.com/Amittutorial/Python-Hospital-Management-System)
 
 ---
 
@@ -281,15 +281,15 @@ Full-Stack Development 🚀
 
 <p align="center">
 
-<a href="https://github.com/Amittutorial">
+<a href="/https://github.com/Amittutorial/">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/amit-verma-b529992ab/">
+<a href="www.linkedin.com/in/amit-verma-b529992ab/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/CodeWithAmitX/">
+<a href="[https://leetcode.com/u/CodeWithAmitX](https://leetcode.com/u/CodeWithAmitX/)/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
