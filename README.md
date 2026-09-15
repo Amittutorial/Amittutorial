@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-verma-b529992ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-verma-b529992ab/" height="30" width="40" /></a>
+<a href[="https://linkedin.com/in/https://www.linkedin.com/in/amit-verma-b529992ab](https://www.linkedin.com/in/amit-verma-b529992ab/)/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-verma-b529992ab/" height="30" width="40" /></a>
 <a href="https://fb.com/https://m.facebook.com/profile.php?id=61577078242678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/profile.php?id=61577078242678" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/debugger_cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/debugger_cse/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@amitverma123.?si=aetujfkmdrtirrhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@amitverma123.?si](https://www.hackerrank.com/profile/amitpatel42203)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@amitpatel42203" height="30" width="40" /></a>
@@ -37,3 +37,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amittutorial&" alt="amittutorial" /></p>
+](https://www.hackerrank.com/profile/amitpatel42203)](https://www.hackerrank.com/profile/amitpatel42203)](https://www.hackerrank.com/profile/amitpatel42203)](https://www.hackerrank.com/profile/amitpatel42203)](https://www.hackerrank.com/profile/amitpatel42203)](https://www.hackerrank.com/profile/amitpatel42203)](https://www.hackerrank.com/profile/amitpatel42203)](https://www.hackerrank.com/profile/amitpatel42203)
