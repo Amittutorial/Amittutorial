@@ -281,7 +281,7 @@ Full-Stack Development 🚀
 
 <p align="center">
 
-<a href="[/https://github.com/Amittutorial/](https://github.com/Amittutorial)">
+<a href="[[/https://github.com/Amittutorial/](https://github.com/Amittutorial)](https://github.com/Amittutorial)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
