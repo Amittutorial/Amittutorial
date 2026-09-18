@@ -231,7 +231,6 @@ Frontend Development
 Backend Development
     ↓
 Full-Stack Development 🚀
-```
 
 ---
 
