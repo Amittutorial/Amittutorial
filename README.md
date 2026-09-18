@@ -205,33 +205,17 @@ https://leetcode.com/u/CodeWithAmitX/
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amittutorial&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amittutorial&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+ Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amittutorial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amittutorial/Amittutorial/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ---
 
 # 📈 My Development Journey
 
-```text
 HTML / CSS
     ↓
 JavaScript
