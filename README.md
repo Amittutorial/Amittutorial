@@ -2,27 +2,34 @@
 
 <div align="center">
 
-<a href="https://github.com/Amittutorial">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00F5FF,100:7B2CFF&height=220&section=header&text=AMIT%20VERMA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20JAVA%20%7C%20DSA&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Amit Verma Cyberpunk Header"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00F5FF,100:7B2CFF&height=220&section=header&text=AMIT%20VERMA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20JAVA%20%7C%20DSA&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Amit Verma Dark Cyberpunk Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Code.+Learn.+Build.+Dominate.;Java+%7C+DSA+%7C+Full-Stack+Development;Building+Projects+That+Solve+Real+Problems;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated Developer Introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=CODE.+LEARN.+BUILD.+DOMINATE.;Java+%7C+DSA+%7C+Full-Stack+Development;Building+Real-World+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" width="100%" alt="Animated Developer Tagline"/>
 
 <br/>
 
-<a href="[https://github.com/Amittutorial](https://github.com/Amittutorial)">
-  <img src="https://komarev.com/ghpvc/?username=Amittutorial&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Amittutorial&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Amittutorial?style=for-the-badge&logo=github&label=FOLLOWERS&color=7B2CFF" alt="GitHub Followers"/>
+
+<br/><br/>
+
+<a href="https://weather-gpt-web20.vercel.app/">
+<img src="https://img.shields.io/badge/🌦️_LIVE_WEATHER_GPT-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Weather GPT Live Website"/>
 </a>
-<a href="https://github.com/Amittutorial?tab=followers">
-  <img src="https://img.shields.io/github/followers/Amittutorial?style=for-the-badge&logo=github&label=FOLLOWERS&color=7B2CFF" alt="GitHub Followers"/>
-</a>
+
 <a href="https://github.com/Amittutorial?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-EXPLORE-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Projects"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-7B2CFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
 </a>
 
-### 🌐 [VISIT MY WEBSITE](https://YOUR-WEBSITE-URL)
+<a href="https://leetcode.com/u/CodeWithAmitX/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+</a>
 
-**Building the future, one commit at a time.** ⚡
+### 🌐 My Website
+
+**[weather-gpt-web20.vercel.app](https://weather-gpt-web20.vercel.app/)**
+
+*Building the future, one commit at a time.* ⚡
 
 </div>
 
@@ -31,283 +38,256 @@
 ## 👾 `WHOAMI` — About Me
 
 ```text
-Name       : Amit Verma
-Role       : CSE Student | Aspiring Full-Stack Developer
-Focus      : Java, DSA, Web Development & Backend
-Mindset    : Learn Fast. Build Smart. Keep Improving.
-Mission    : Build impactful real-world applications.
+╔══════════════════════════════════════╗
+║           DEVELOPER PROFILE          ║
+╠══════════════════════════════════════╣
+║ NAME      : Amit Verma               ║
+║ ROLE      : CSE Student               ║
+║ FOCUS     : Java | DSA | Web Dev      ║
+║ MINDSET   : Learn. Build. Improve.    ║
+║ MISSION   : Build Useful Applications ║
+╚══════════════════════════════════════╝
 ```
 
-I'm a Computer Science Engineering student passionate about software development, problem-solving, and building practical applications.
+- ⚡ Developing responsive web applications.
+- ☕ Learning Java and object-oriented programming.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🌐 Exploring full-stack web development.
+- 🔧 Learning backend development and REST APIs.
+- 🗄️ Working with SQL and database management.
+- 🚀 Turning ideas into practical software projects.
 
-- ⚡ Developing responsive and interactive web applications.
-- ☕ Strengthening my Java and object-oriented programming skills.
-- 🧠 Practicing Data Structures and Algorithms on LeetCode.
-- 🔧 Exploring backend development, REST APIs, and databases.
-- 🚀 Building projects that combine clean code with useful functionality.
-
-> **My philosophy:** Don't just write code. Build something that matters.
+> **MINDSET:** Don't just write code. Build something that matters.
 
 ---
 
-## 🛠️ `TECH_STACK` — My Arsenal
+## 🛠️ `TECH_STACK` — Developer Arsenal
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" alt="Java Python C JavaScript"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" width="100%" alt="Programming Languages"/>
 
 ### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="100%" alt="Frontend Technologies"/>
 
 ### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" alt="Node.js Express MySQL MongoDB"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" width="100%" alt="Backend and Databases"/>
 
-### 🔧 Developer Tools
+### 🔧 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" width="100%" alt="Developer Tools"/>
 
 </div>
 
 ---
 
-## 🚀 `FEATURED_PROJECTS` — Built, Not Just Imagined
+## 🚀 `FEATURED_PROJECTS` — My Builds
 
-<div align="center">
+### 🌦️ 01. Weather GPT
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub>LIVE DEPLOYMENT • VERCEL</sub>
 
-### 🛒 ShopKart
+A weather-focused web application available online.
 
-**E-Commerce Web Application**
+<a href="https://weather-gpt-web20.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_WEBSITE-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Open Weather GPT"/>
+</a>
 
-A responsive shopping experience built with modern web fundamentals.
+**Website:** [weather-gpt-web20.vercel.app](https://weather-gpt-web20.vercel.app/)
+
+**Tech stack:** Update this line with the actual technologies used in the project.
+
+---
+
+### 🛒 02. ShopKart — E-Commerce Website
+
+A responsive online shopping interface.
 
 - 🛍️ Product browsing and search
-- 🛒 Shopping cart functionality
+- 🛒 Shopping cart
 - 👤 Login and profile interface
 - 📱 Responsive design
 - 💳 Checkout flow
 
-**Stack:** HTML · CSS · JavaScript
+**Tech:** HTML · CSS · JavaScript
 
 <a href="https://github.com/Amittutorial/ShopKart-E-Commerce-Website">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="View ShopKart"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-7B2CFF?style=for-the-badge&logo=github&logoColor=white" alt="ShopKart Source Code"/>
 </a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 Bank Management System
-
-**Java Desktop Application**
-
-A GUI-based banking application for essential account operations.
-
-- 🔐 User login
-- 🏦 Account creation
-- 💰 Deposits and withdrawals
-- 🔄 Money transfers
-- 🗄️ MySQL integration
-
-**Stack:** Java · Swing · MySQL
-
-<a href="https://github.com/Amittutorial/Java-Bank-Management-System">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-7B2CFF?style=for-the-badge&logo=github&logoColor=white" alt="View Bank Management System"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 Inventory Management System
-
-**Java + Database**
-
-A product and stock management application.
-
-- ➕ Add and update products
-- 🔍 Search and delete products
-- 📥 Stock-in and stock-out operations
-- 🧾 Bill generation
-- 🗄️ Database integration
-
-**Stack:** Java · OOP · MySQL
-
-<a href="https://github.com/Amittutorial/Java-Inventory-Management-System">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="View Inventory Management System"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Hospital Management System
-
-**Python Application**
-
-A console-based application for managing patient records.
-
-- ➕ Add and search patients
-- ✏️ Update patient details
-- 🗑️ Delete patient records
-- 🚪 Patient discharge
-- 🧾 Bill generation
-
-**Stack:** Python · File Handling
-
-<a href="https://github.com/Amittutorial/Python-Hospital-Management-System">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-7B2CFF?style=for-the-badge&logo=github&logoColor=white" alt="View Hospital Management System"/>
-</a>
-## 🌦️ `LIVE_PROJECT` — Weather GPT
-
-<div align="center">
-
-<a href="https://weather-gpt-web20.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Weather GPT Demo"/>
-</a>
-
-<br/>
-
-**A weather web application designed to make weather information accessible through a clean, modern interface.**
-
-<a href="https://weather-gpt-web20.vercel.app/">
-  <img src="https://img.shields.io/badge/OPEN_WEATHER_GPT-7B2CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Weather GPT"/>
-</a>
-
-</div>
-
-**🌐 Live Website:** https://weather-gpt-web20.vercel.app/
-
-**Highlights**
-- 🌦️ Weather-focused web experience
-- 💻 Web-based interface
-- 🚀 Deployed on Vercel
-
-**Tech Stack:** Add the exact technologies used in your project, such as HTML, CSS, JavaScript, or an API integration.
-
-
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
-## 🧠 `DSA_MODE` — Problem-Solving Zone
+### 🏦 03. Java Bank Management System
+
+A desktop application for banking operations.
+
+- 🔐 User login
+- 🏦 Account creation
+- 💰 Deposit and withdrawal
+- 🔄 Money transfers
+- 🗄️ MySQL integration
+
+**Tech:** Java · Swing · MySQL
+
+<a href="https://github.com/Amittutorial/Java-Bank-Management-System">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Bank Management Source Code"/>
+</a>
+
+---
+
+### 📦 04. Java Inventory Management System
+
+A product and stock management application.
+
+- ➕ Add products
+- ✏️ Update product information
+- 🔍 Search and delete products
+- 📥 Stock-in and stock-out
+- 🧾 Bill generation
+
+**Tech:** Java · OOP · MySQL
+
+<a href="https://github.com/Amittutorial/Java-Inventory-Management-System">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-7B2CFF?style=for-the-badge&logo=github&logoColor=white" alt="Inventory Management Source Code"/>
+</a>
+
+---
+
+### 🏥 05. Python Hospital Management System
+
+A console-based patient management application.
+
+- ➕ Add and view patients
+- 🔍 Search patient records
+- ✏️ Update patient details
+- 🚪 Patient discharge
+- 🧾 Bill generation
+
+**Tech:** Python · File Handling
+
+<a href="https://github.com/Amittutorial/Python-Hospital-Management-System">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Hospital Management Source Code"/>
+</a>
+
+---
+
+## 🧠 `DSA_MODE` — Problem Solving
 
 <div align="center">
 
 <a href="https://leetcode.com/u/CodeWithAmitX/">
-  <img src="https://img.shields.io/badge/LeetCode-CodeWithAmitX-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+<img src="https://img.shields.io/badge/LEETCODE-CODE_WITH_AMIT-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
 </a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark" height="45" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java"/>
 
-**Currently sharpening my logic through:**
+</div>
+
+**Topics I'm practicing:**
 
 `Arrays` · `Strings` · `Hashing` · `Sorting` · `Searching` · `Recursion` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Binary Search` · `Dynamic Programming`
 
-</div>
-
 ---
 
-## 📊 `GITHUB_ANALYTICS` — The Activity Dashboard
+## 📊 `GITHUB_ANALYTICS` — Dark Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amittutorial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=7B2CFF&text_color=FFFFFF" height="180" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amittutorial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=7B2CFF&text_color=FFFFFF" width="100%" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amittutorial&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=FFFFFF" height="180" alt="Most Used Languages"/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amittutorial&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=7B2CFF&currStreakLabel=00F5FF" width="80%" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amittutorial&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=FFFFFF" width="100%" alt="Most Used Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amittutorial&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=7B2CFF&currStreakLabel=00F5FF" width="100%" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🗺️ `MY_DEVELOPMENT_PATH` — Road to Full Stack
+## 🗺️ `DEVELOPMENT_PATH` — Road to Full Stack
 
 ```text
 [ HTML + CSS ]
-       |
-       v
+      |
+      v
 [ JavaScript ]
-       |
-       v
+      |
+      v
 [ Java + OOP ]
-       |
-       v
+      |
+      v
 [ Git + GitHub ]
-       |
-       v
+      |
+      v
 [ SQL + MySQL ]
-       |
-       v
+      |
+      v
 [ Frontend Development ]
-       |
-       v
+      |
+      v
 [ Node.js + Express ]
-       |
-       v
+      |
+      v
 [ REST APIs + Databases ]
-       |
-       v
-[ FULL-STACK DEVELOPER 🚀 ]
+      |
+      v
+[ FULL-STACK DEVELOPER ]
 ```
 
 ---
 
-## 🎯 `MISSION_2026` — The Next Level
+## 🎯 `MISSION_2026` — Next Level
 
-- [ ] 🚀 Launch and improve personal web projects.
+- [ ] 🚀 Improve and deploy real-world projects.
 - [ ] 🧠 Strengthen DSA and problem-solving skills.
-- [ ] ☕ Master Java fundamentals and advanced OOP.
-- [ ] ⚙️ Build backend applications with Node.js and Express.
+- [ ] ☕ Improve Java and advanced OOP.
+- [ ] ⚙️ Build backend applications using Node.js.
 - [ ] 🗄️ Develop stronger database and API skills.
-- [ ] 🌐 Deploy projects and improve my portfolio.
+- [ ] 🌐 Improve my portfolio and live deployments.
 - [ ] 🤝 Explore open-source contributions.
 - [ ] 📈 Maintain consistent GitHub activity.
 
 ---
 
-## 🌐 `CONNECT` — Find Me Online
+## 🌐 `CONNECT` — Enter My Network
 
 <div align="center">
 
 <a href="https://github.com/Amittutorial">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://leetcode.com/u/CodeWithAmitX/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve_With_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="https://www.linkedin.com/in/amit-verma-b529992ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://YOUR-WEBSITE-URL">
-  <img src="https://img.shields.io/badge/Portfolio-Explore_My_World-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Personal Website"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-### ⚡ CODE. LEARN. BUILD. REPEAT. ⚡
+<a href="https://weather-gpt-web20.vercel.app/">
+<img src="https://img.shields.io/badge/MY_LIVE_WEBSITE-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="My Website"/>
+</a>
+
+<br/><br/>
+
+**⚡ CODE. LEARN. BUILD. REPEAT. ⚡**
 
 *Turning curiosity into code and ideas into applications.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:00F5FF,100:050816&height=120&section=footer" width="100%" alt="Cyberpunk Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:00F5FF,100:050816&height=130&section=footer" width="100%" alt="Dark Neon Footer"/>
 
-**⭐ If you like my work, explore my repositories and follow my journey!**
+⭐ **Thanks for visiting my GitHub profile!**
 
 </div>
