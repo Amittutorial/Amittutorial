@@ -1,58 +1,72 @@
- <!-- ===================== PROFILE BANNER ===================== -->
+# 👋 Hi, I'm Amit Verma!
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AMIT%20VERMA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&color=0:141E30,50:243B55,100:6A5ACD" width="100%" alt="Amit Verma profile banner"/>
+<!-- Animated glass-inspired header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:123B52,70:345C81,100:725AC1&height=220&section=header&text=AMIT%20VERMA&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=17&descAlignY=57" width="100%" alt="Amit Verma animated profile banner" />
 
-<a href="https://github.com/Amittutorial">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Java+Developer+%7C+Problem+Solver;Building+Projects+That+Solve+Problems;Learning+DSA+One+Problem+At+A+Time;Turning+Ideas+Into+Working+Code" alt="Animated developer introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=64E8FF&center=true&vCenter=true&width=650&lines=Java+Developer+in+Progress+%F0%9F%92%BB;Exploring+Data+Structures+%26+Algorithms;Building+Web+Applications+%F0%9F%9A%80;Learning+Something+New+Every+Day!" alt="Animated introduction" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Amittutorial&label=PROFILE%20VIEWS&color=6A5ACD&style=for-the-badge" alt="GitHub profile views"/>
-
-<a href="https://github.com/Amittutorial?tab=followers">
-  <img src="https://img.shields.io/github/followers/Amittutorial?label=Followers&style=for-the-badge&color=243B55" alt="GitHub followers"/>
-</a>
-<a href="https://github.com/Amittutorial?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-6A5ACD?style=for-the-badge" alt="Explore repositories"/>
+<a href="https://github.com/Amittutorial">
+  <img src="https://img.shields.io/badge/GitHub-Amittutorial-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 <a href="https://www.linkedin.com/in/amit-verma-b529992ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
+<a href="https://weather-gpt-web20.vercel.app/">
+  <img src="https://img.shields.io/badge/Weather_GPT-Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Weather GPT live demo" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Amittutorial&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Profile views counter" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 💎 About Me
 
 ```text
-┌──────────────────────────────────────────┐
-│  USER       : Amit Verma                 │
-│  GITHUB     : Amittutorial               │
-│  ROLE       : Developer in Progress      │
-│  FOCUS      : Java | DSA | Web Projects  │
-│  MINDSET    : Learn • Build • Improve    │
-└──────────────────────────────────────────┘
+╭──────────────────────────────────────────────╮
+│  USER       : Amit Verma                     │
+│  INTERESTS  : Java • DSA • Web Development   │
+│  MINDSET    : Learn • Build • Improve        │
+│  CURRENTLY  : Practicing and building        │
+│  GOAL       : Grow as a software developer   │
+╰──────────────────────────────────────────────╯
 ```
 
-- 💻 I enjoy solving programming problems and building practical projects.
-- ☕ Practising **Java, Data Structures and Algorithms**.
-- 🌐 Exploring web development and interactive applications.
-- 🧠 Improving problem-solving skills through coding challenges.
-- 🚀 Goal: Build useful software and become a stronger developer.
+- 💻 Interested in Java programming and software development.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🌐 Exploring frontend development and web technologies.
+- 🌦️ Built a Weather GPT web application.
+- 🚀 Enjoy learning through hands-on projects.
+- 🎯 Focused on writing cleaner code and improving problem-solving skills.
 
-> *Write code. Solve problems. Keep growing.*
+---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode&theme=dark" alt="Java, Python, HTML, CSS, JavaScript, Git, GitHub and VS Code skills"/>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" alt="Java, Python and JavaScript" />
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express&theme=dark" alt="HTML, CSS, Node.js and Express" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" alt="Git, GitHub, VS Code and MySQL" />
 
 </div>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -62,151 +76,155 @@
 
 ### 🌦️ Weather GPT
 
-A deployed weather web application.
+An interactive weather web application.
 
-- 🌍 Explore the live application.
-- 📱 Check out the interface and features.
+- Explore the live web experience.
+- Practice web development concepts.
 
-**[🚀 Open Live Project](https://weather-gpt-web20.vercel.app/)**
+**Project link:** [Open Weather GPT](https://weather-gpt-web20.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 ShopKart
+### 💻 Coding Practice
 
-An e-commerce website project.
+Explore my public repositories and coding exercises.
 
-- 🛍️ Shopping-focused interface.
-- 🔐 Login and OTP verification development.
+- Java programming
+- Problem-solving practice
+- Learning projects
 
-**[📂 Explore My Repositories](https://github.com/Amittutorial?tab=repositories)**
+**Project link:** [Browse repositories](https://github.com/Amittutorial?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ☕ Java Projects
+### 🛒 ShopKart
 
-Practising Java through application-based projects.
+An e-commerce website project.
 
-- 🏦 Bank Management System
-- 📦 Inventory Management System
+- Login page UI
+- Responsive styling
+- Frontend development practice
 
-**[💻 View My Code](https://github.com/Amittutorial?tab=repositories)**
+**Project link:** [Find ShopKart in my repositories](https://github.com/Amittutorial?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### 🐍 Python Project
+### ✨ More Projects
 
-Exploring Python through practical application development.
+Discover my latest experiments and applications.
 
-- 🏥 Hospital Management System
+- Web applications
+- Java projects
+- New coding experiments
 
-**[💻 Explore Repositories](https://github.com/Amittutorial?tab=repositories)**
+**Project link:** [Explore my GitHub](https://github.com/Amittutorial)
 
 </td>
 </tr>
 </table>
 
-## 📊 GitHub Activity
+---
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amittutorial&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amittutorial&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=C9D1D9" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Amittutorial&theme=transparent&hide_border=true&ring=9B8CFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=9CA3AF" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amittutorial&bg_color=0D1117&color=9B8CFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amittutorial&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub achievements and trophies"/>
-
-</div>
-
-## 🧩 LeetCode Journey
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Practise on LeetCode"/>
-</a>
-
-<br/><br/>
-
-<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username. -->
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="95%" alt="LeetCode statistics card"/>
-
-<br/>
-
-**My coding philosophy:** Understand the logic → Write the code → Dry run → Optimise.
-
-</div>
-
-## 💻 Developer Terminal
-
-```bash
-amit@github:~$ whoami
-Developer | Learner | Problem Solver
-
-amit@github:~$ current-focus
-Java + Data Structures & Algorithms
-
-amit@github:~$ mission
-Build projects. Improve daily. Never stop learning.
-
-amit@github:~$ status
-[##########..........] Always Learning
-```
-
-## 🎯 Current Goals
-
-- [ ] Strengthen Java fundamentals.
-- [ ] Practise arrays, strings and other DSA topics.
-- [ ] Improve problem-solving consistency on LeetCode.
-- [ ] Build and deploy more useful projects.
-- [ ] Write cleaner, maintainable code.
-- [ ] Contribute to open-source projects.
-
-## 🤝 Connect With Me
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Amittutorial">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Amittutorial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64E8FF&icon_color=818CF8&text_color=C9D1D9" alt="GitHub statistics for Amittutorial" />
 </a>
-<a href="https://www.linkedin.com/in/amit-verma-b529992ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+<a href="https://github.com/Amittutorial">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amittutorial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64E8FF&text_color=C9D1D9" alt="Most used languages on public repositories" />
 </a>
-<a href="https://weather-gpt-web20.vercel.app/">
-  <img src="https://img.shields.io/badge/Weather%20GPT-Live%20Demo-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" alt="Weather GPT live demo"/>
-</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Amittutorial&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=64E8FF&currStreakLabel=64E8FF" width="90%" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amittutorial&bg_color=0D1117&color=64E8FF&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
-**If you like my projects, consider giving them a ⭐**
+</div>
 
-*Learning today. Building tomorrow. Improving every day.*
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:141E30&height=100&section=footer" width="100%" alt="Decorative profile footer"/>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amittutorial&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub achievement trophies" />
+
+</div>
+
+---
+
+## ⌨️ Developer Terminal
+
+```java
+public class AmitVerma {
+
+    public static void main(String[] args) {
+
+        String name = "Amit Verma";
+        String primaryLanguage = "Java";
+        String mindset = "Never Stop Learning";
+
+        System.out.println("Hello, World!");
+        System.out.println("Developer: " + name);
+        System.out.println("Learning: " + primaryLanguage);
+        System.out.println("Mindset: " + mindset);
+
+        while (true) {
+            learn();
+            practice();
+            build();
+            improve();
+        }
+    }
+
+    static void learn() {}
+    static void practice() {}
+    static void build() {}
+    static void improve() {}
+}
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Amittutorial">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/amit-verma-b529992ab/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+<a href="https://weather-gpt-web20.vercel.app/">
+  <img src="https://img.shields.io/badge/Explore-Weather_GPT-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Weather GPT" />
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!** ⭐
+
+*Keep learning. Keep building. Keep growing.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:725AC1,50:345C81,100:0B1020&height=120&section=footer" width="100%" alt="Animated footer banner" />
 
 </div>
