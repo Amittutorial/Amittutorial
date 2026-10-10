@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://github.com/Amittutorial">
+<a href="[https://github.com/Amittutorial](https://github.com/Amittutorial)">
   <img src="https://komarev.com/ghpvc/?username=Amittutorial&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 </a>
 <a href="https://github.com/Amittutorial?tab=followers">
