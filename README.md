@@ -164,6 +164,34 @@ A console-based application for managing patient records.
 <a href="https://github.com/Amittutorial/Python-Hospital-Management-System">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-7B2CFF?style=for-the-badge&logo=github&logoColor=white" alt="View Hospital Management System"/>
 </a>
+## 🌦️ `LIVE_PROJECT` — Weather GPT
+
+<div align="center">
+
+<a href="https://weather-gpt-web20.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Weather GPT Demo"/>
+</a>
+
+<br/>
+
+**A weather web application designed to make weather information accessible through a clean, modern interface.**
+
+<a href="https://weather-gpt-web20.vercel.app/">
+  <img src="https://img.shields.io/badge/OPEN_WEATHER_GPT-7B2CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Weather GPT"/>
+</a>
+
+</div>
+
+**🌐 Live Website:** https://weather-gpt-web20.vercel.app/
+
+**Highlights**
+- 🌦️ Weather-focused web experience
+- 💻 Web-based interface
+- 🚀 Deployed on Vercel
+
+**Tech Stack:** Add the exact technologies used in your project, such as HTML, CSS, JavaScript, or an API integration.
+
+
 
 </td>
 </tr>
