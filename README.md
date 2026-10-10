@@ -1,322 +1,285 @@
-<h1 align="center">Hi 👋, I'm Amit Verma</h1>
+# ⚡ AMIT VERMA | DEVELOPER PROFILE
 
-<h3 align="center">💻 Computer Science Engineering Student | Full-Stack Web Developer</h3>
+<div align="center">
 
-<p align="center">
-  Passionate about Web Development, Java, Full-Stack Development and Problem Solving 🚀
-</p>
-
-<p align="center">
-  <a href="https://github.com/Amittutorial">
-    <img src="https://komarev.com/ghpvc/?username=Amittutorial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Amittutorial">
-    <img src="https://img.shields.io/github/followers/Amittutorial?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/Amittutorial?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge" alt="Projects"/>
-  </a>
-  <a href="https://leetcode.com/u/CodeWithAmitX/">
-    <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge" alt="LeetCode"/>
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-👋 Hi, I'm **Amit Verma**, a Computer Science Engineering student passionate about building practical and real-world applications.
-
-💡 My interests include:
-
-* 🌐 Web Development
-* ☕ Java & Object-Oriented Programming
-* ⚙️ Full-Stack Development
-* 🗄️ Database Management
-* 🧩 Data Structures & Algorithms
-* 💻 Problem Solving
-
-I enjoy learning new technologies, building projects from scratch, and continuously improving my programming skills.
-
-🎯 **Goal:** Become a skilled Full-Stack Developer and build scalable, useful applications.
-
----
-
-## 🌱 Currently Learning
-
-* Full-Stack Web Development
-* Backend Development
-* REST APIs
-* Node.js & Express.js
-* MongoDB & MySQL
-* Java & Advanced OOP
-* Data Structures & Algorithms
-* System Design Basics
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-### ⚙️ Backend & Database Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 ShopKart — E-Commerce Website
-
-A responsive e-commerce website designed to provide a simple and convenient online shopping experience.
-
-### Features:
-
-* 🛍️ Product Browsing
-* 🔍 Product Search
-* 📱 Responsive UI
-* 👤 User Login & Profile
-* 🛒 Shopping Cart
-* 💳 Checkout Flow
-* 📦 Order-related Features
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 **Repository:**
-[https://github.com/Amittutorial/ShopKart-E-Commerce-Website](https://github.com/Amittutorial/ShopKart-E-Commerce-Website)
-
----
-
-## 📦 Java Inventory Management System
-
-A console-based inventory management application developed using Java.
-
-### Features:
-
-* 🔐 Admin Login
-* ➕ Add Product
-* 👀 View Products
-* ✏️ Update Product
-* 🗑️ Delete Product
-* 🔎 Search Product
-* 📥 Stock In / Stock Out
-* 🧾 Bill Generation
-* 💳 Cash / UPI Payment
-* 🗄️ MySQL Database Integration
-
-**Tech:** Java • OOP • MySQL
-
-🔗 **Repository:**
-[https://github.com/Amittutorial/Java-Inventory-Management-System
-](https://github.com/Amittutorial/-Java-Inventory-Management-System)
----
-
-## 🏦 Java Bank Management System
-
-A Java-based banking application developed with a graphical user interface.
-
-### Features:
-
-* 🔐 User Login
-* 🏦 Create Bank Account
-* 💰 Deposit Money
-* 💸 Withdraw Money
-* 🔄 Transfer Money
-* 💳 Check Balance
-* 🗄️ MySQL Database Integration
-
-**Tech:** Java • Swing 
-
-🔗 **Repository:**
-[https://github.com/Amittutorial/Java-Bank-Management-System](https://github.com/Amittutorial/Java-Bank-Management-System)
-
----
-
-## 🏥 Python Hospital Management System
-
-A console-based hospital management application developed using Python.
-
-### Features:
-
-* 🔐 Admin Login
-* ➕ Add Patient
-* 👀 View Patients
-* 🔍 Search Patient
-* ✏️ Update Patient Details
-* 🗑️ Delete Patient
-* 🚪 Patient Discharge
-* 🧾 Bill Generation
-* 💵 Cash Payment
-* 📱 UPI Payment
-* 💻 Simple Console-Based Interface
-
-**Tech:** Python • File Handling 
-
-🔗 **Repository:**
-[https://github.com/Amittutorial/Python-Hospital-Management-System](https://github.com/Amittutorial/Python-Hospital-Management-System)
-
----
-
-# 🧩 Data Structures & Algorithms
-
-I regularly practice **Data Structures & Algorithms** to improve my problem-solving and logical thinking skills.
-
-### 📚 Currently Practicing
-
-* Arrays
-* Strings
-* Searching
-* Sorting
-* Linked List
-* Stack
-* Queue
-* Hashing
-* Recursion
-* Binary Search
-* Trees
-* Dynamic Programming
-
-🎯 **Practice Platform:** LeetCode
-
-🔗 LeetCode Profile:
-https://leetcode.com/u/CodeWithAmitX/
-
----
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amittutorial&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
- Activity
-
-
----
-
-# 📈 My Development Journey
-
-HTML / CSS
-    ↓
-JavaScript
-    ↓
-Java & OOP
-    ↓
-Git & GitHub
-    ↓
-SQL & MySQL
-    ↓
-Frontend Development
-    ↓
-Backend Development
-    ↓
-Full-Stack Development 🚀
-
----
-
-# 💡 What I Love Building
-
-* 🛒 E-Commerce Applications
-* 💻 Web Applications
-* ☕ Java Applications
-* 🏥 Management Systems
-* 🗄️ Database Projects
-* ⚙️ Backend Systems
-* 🧩 DSA Solutions
-* 🚀 Real-World Projects
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Become a strong Full-Stack Developer
-* 💻 Build more real-world projects
-* 🧩 Solve more DSA problems
-* ☕ Improve Java & Backend skills
-* 🗄️ Master Databases and APIs
-* 🌐 Deploy Projects Online
-* 🤝 Contribute to Open Source
-* 📈 Grow Consistently on GitHub
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="[[/https://github.com/Amittutorial/](https://github.com/Amittutorial)](https://github.com/Amittutorial)">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Amittutorial">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00F5FF,100:7B2CFF&height=220&section=header&text=AMIT%20VERMA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20JAVA%20%7C%20DSA&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Amit Verma Cyberpunk Header"/>
 </a>
 
-<a href="www.linkedin.com/in/amit-verma-b529992ab/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Code.+Learn.+Build.+Dominate.;Java+%7C+DSA+%7C+Full-Stack+Development;Building+Projects+That+Solve+Real+Problems;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated Developer Introduction"/>
+
+<br/>
+
+<a href="https://github.com/Amittutorial">
+  <img src="https://komarev.com/ghpvc/?username=Amittutorial&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+<a href="https://github.com/Amittutorial?tab=followers">
+  <img src="https://img.shields.io/github/followers/Amittutorial?style=for-the-badge&logo=github&label=FOLLOWERS&color=7B2CFF" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/Amittutorial?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-EXPLORE-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Projects"/>
 </a>
 
-<a href="[[https://leetcode.com/u/CodeWithAmitX](https://leetcode.com/u/CodeWithAmitX/)/](https://leetcode.com/u/CodeWithAmitX/)/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+### 🌐 [VISIT MY WEBSITE](https://YOUR-WEBSITE-URL)
 
-</p>
+**Building the future, one commit at a time.** ⚡
 
----
-
-<h3 align="center">💻 Code • Learn • Build • Repeat 🚀</h3>
-
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
-</p>
-
-###
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+## 👾 `WHOAMI` — About Me
+
+```text
+Name       : Amit Verma
+Role       : CSE Student | Aspiring Full-Stack Developer
+Focus      : Java, DSA, Web Development & Backend
+Mindset    : Learn Fast. Build Smart. Keep Improving.
+Mission    : Build impactful real-world applications.
+```
+
+I'm a Computer Science Engineering student passionate about software development, problem-solving, and building practical applications.
+
+- ⚡ Developing responsive and interactive web applications.
+- ☕ Strengthening my Java and object-oriented programming skills.
+- 🧠 Practicing Data Structures and Algorithms on LeetCode.
+- 🔧 Exploring backend development, REST APIs, and databases.
+- 🚀 Building projects that combine clean code with useful functionality.
+
+> **My philosophy:** Don't just write code. Build something that matters.
+
+---
+
+## 🛠️ `TECH_STACK` — My Arsenal
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" alt="Java Python C JavaScript"/>
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
+
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" alt="Node.js Express MySQL MongoDB"/>
+
+### 🔧 Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/>
+
 </div>
 
-###
+---
+
+## 🚀 `FEATURED_PROJECTS` — Built, Not Just Imagined
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 ShopKart
+
+**E-Commerce Web Application**
+
+A responsive shopping experience built with modern web fundamentals.
+
+- 🛍️ Product browsing and search
+- 🛒 Shopping cart functionality
+- 👤 Login and profile interface
+- 📱 Responsive design
+- 💳 Checkout flow
+
+**Stack:** HTML · CSS · JavaScript
+
+<a href="https://github.com/Amittutorial/ShopKart-E-Commerce-Website">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="View ShopKart"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Bank Management System
+
+**Java Desktop Application**
+
+A GUI-based banking application for essential account operations.
+
+- 🔐 User login
+- 🏦 Account creation
+- 💰 Deposits and withdrawals
+- 🔄 Money transfers
+- 🗄️ MySQL integration
+
+**Stack:** Java · Swing · MySQL
+
+<a href="https://github.com/Amittutorial/Java-Bank-Management-System">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-7B2CFF?style=for-the-badge&logo=github&logoColor=white" alt="View Bank Management System"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Inventory Management System
+
+**Java + Database**
+
+A product and stock management application.
+
+- ➕ Add and update products
+- 🔍 Search and delete products
+- 📥 Stock-in and stock-out operations
+- 🧾 Bill generation
+- 🗄️ Database integration
+
+**Stack:** Java · OOP · MySQL
+
+<a href="https://github.com/Amittutorial/Java-Inventory-Management-System">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="View Inventory Management System"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Hospital Management System
+
+**Python Application**
+
+A console-based application for managing patient records.
+
+- ➕ Add and search patients
+- ✏️ Update patient details
+- 🗑️ Delete patient records
+- 🚪 Patient discharge
+- 🧾 Bill generation
+
+**Stack:** Python · File Handling
+
+<a href="https://github.com/Amittutorial/Python-Hospital-Management-System">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-7B2CFF?style=for-the-badge&logo=github&logoColor=white" alt="View Hospital Management System"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧠 `DSA_MODE` — Problem-Solving Zone
+
+<div align="center">
+
+<a href="https://leetcode.com/u/CodeWithAmitX/">
+  <img src="https://img.shields.io/badge/LeetCode-CodeWithAmitX-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="45" alt="Java"/>
+
+**Currently sharpening my logic through:**
+
+`Arrays` · `Strings` · `Hashing` · `Sorting` · `Searching` · `Recursion` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Binary Search` · `Dynamic Programming`
+
+</div>
+
+---
+
+## 📊 `GITHUB_ANALYTICS` — The Activity Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amittutorial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=7B2CFF&text_color=FFFFFF" height="180" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amittutorial&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=FFFFFF" height="180" alt="Most Used Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amittutorial&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=7B2CFF&currStreakLabel=00F5FF" width="80%" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🗺️ `MY_DEVELOPMENT_PATH` — Road to Full Stack
+
+```text
+[ HTML + CSS ]
+       |
+       v
+[ JavaScript ]
+       |
+       v
+[ Java + OOP ]
+       |
+       v
+[ Git + GitHub ]
+       |
+       v
+[ SQL + MySQL ]
+       |
+       v
+[ Frontend Development ]
+       |
+       v
+[ Node.js + Express ]
+       |
+       v
+[ REST APIs + Databases ]
+       |
+       v
+[ FULL-STACK DEVELOPER 🚀 ]
+```
+
+---
+
+## 🎯 `MISSION_2026` — The Next Level
+
+- [ ] 🚀 Launch and improve personal web projects.
+- [ ] 🧠 Strengthen DSA and problem-solving skills.
+- [ ] ☕ Master Java fundamentals and advanced OOP.
+- [ ] ⚙️ Build backend applications with Node.js and Express.
+- [ ] 🗄️ Develop stronger database and API skills.
+- [ ] 🌐 Deploy projects and improve my portfolio.
+- [ ] 🤝 Explore open-source contributions.
+- [ ] 📈 Maintain consistent GitHub activity.
+
+---
+
+## 🌐 `CONNECT` — Find Me Online
+
+<div align="center">
+
+<a href="https://github.com/Amittutorial">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://leetcode.com/u/CodeWithAmitX/">
+  <img src="https://img.shields.io/badge/LeetCode-Solve_With_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amit-verma-b529992ab/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://YOUR-WEBSITE-URL">
+  <img src="https://img.shields.io/badge/Portfolio-Explore_My_World-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Personal Website"/>
+</a>
+
+<br/><br/>
+
+### ⚡ CODE. LEARN. BUILD. REPEAT. ⚡
+
+*Turning curiosity into code and ideas into applications.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:00F5FF,100:050816&height=120&section=footer" width="100%" alt="Cyberpunk Footer"/>
+
+**⭐ If you like my work, explore my repositories and follow my journey!**
+
+</div>
