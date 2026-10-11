@@ -1,128 +1,76 @@
-# 👋 Hi, I'm Amit Verma!
+ <!-- ═══════════════════════════════════════════════════════════
+     AMIT VERMA — SIGNATURE DEVELOPER PROFILE
+     Visual identity: AV / Midnight / Electric Cyan / Violet
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Animated glass-inspired header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:123B52,70:345C81,100:725AC1&height=220&section=header&text=AMIT%20VERMA&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=17&descAlignY=57" width="100%" alt="Amit Verma animated profile banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=64E8FF&center=true&vCenter=true&width=650&lines=Java+Developer+in+Progress+%F0%9F%92%BB;Exploring+Data+Structures+%26+Algorithms;Building+Web+Applications+%F0%9F%9A%80;Learning+Something+New+Every+Day!" alt="Animated introduction" />
+<a href="https://github.com/Amittutorial">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,35:0B1730,70:1E1B4B,100:030712&height=12&section=header&reversal=false" width="100%" alt=""/>
+</a>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=AV&fontSize=112&fontColor=67E8F9&fontAlignY=55&animation=fadeIn" width="240" alt="AV monogram"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=1000&color=F1F5F9&center=true&vCenter=true&width=600&height=60&lines=AMIT+VERMA" alt="Amit Verma"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=650&height=65&lines=JAVA+%2F%2F+DSA+%2F%2F+WEB+DEVELOPMENT;DESIGNING.+BUILDING.+ITERATING.;FROM+CONCEPT+TO+WORKING+SOFTWARE." alt="Animated developer tagline"/>
+
+<br/>
+
+<code>COMPUTER SCIENCE ENGINEERING</code>
+
+<br/><br/>
+
 <a href="https://github.com/Amittutorial">
-  <img src="https://img.shields.io/badge/GitHub-Amittutorial-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/01_GITHUB-Explore_Code-0B1020?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/amit-verma-b529992ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  <img src="https://img.shields.io/badge/02_LINKEDIN-Connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/>
 </a>
 <a href="https://weather-gpt-web20.vercel.app/">
-  <img src="https://img.shields.io/badge/Weather_GPT-Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Weather GPT live demo" />
+  <img src="https://img.shields.io/badge/03_LIVE_DEMO-Weather_GPT-0B1020?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Weather GPT"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Amittutorial&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Profile views counter" />
+<img src="https://komarev.com/ghpvc/?username=Amittutorial&style=flat-square&color=312E81&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
-
-## 💎 About Me
-
-```text
-╭──────────────────────────────────────────────╮
-│  USER       : Amit Verma                     │
-│  INTERESTS  : Java • DSA • Web Development   │
-│  MINDSET    : Learn • Build • Improve        │
-│  CURRENTLY  : Practicing and building        │
-│  GOAL       : Grow as a software developer   │
-╰──────────────────────────────────────────────╯
-```
-
-- 💻 Interested in Java programming and software development.
-- 🧠 Practicing Data Structures and Algorithms.
-- 🌐 Exploring frontend development and web technologies.
-- 🌦️ Built a Weather GPT web application.
-- 🚀 Enjoy learning through hands-on projects.
-- 🎯 Focused on writing cleaner code and improving problem-solving skills.
-
----
-
-## 🧰 Tech Stack
 
 <div align="center">
 
-### Languages
+## THE PERSON BEHIND THE CODE
 
-<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" alt="Java, Python and JavaScript" />
+*Curiosity starts the idea. Code brings it to life.*
 
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,express&theme=dark" alt="HTML, CSS, Node.js and Express" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" alt="Git, GitHub, VS Code and MySQL" />
+I'm Amit Verma, a Computer Science Engineering student interested in Java programming, problem-solving, and web development. I learn by experimenting, building projects, debugging, and improving my understanding of software.
 
 </div>
-
----
-
-## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ Weather GPT
+**`FOCUS / 01`**
 
-An interactive weather web application.
-
-- Explore the live web experience.
-- Practice web development concepts.
-
-**Project link:** [Open Weather GPT](https://weather-gpt-web20.vercel.app/)
+* Java & OOP
+* Data Structures & Algorithms
+* Web development
+* Database fundamentals
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Coding Practice
+**`MINDSET / 02`**
 
-Explore my public repositories and coding exercises.
-
-- Java programming
-- Problem-solving practice
-- Learning projects
-
-**Project link:** [Browse repositories](https://github.com/Amittutorial?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 ShopKart
-
-An e-commerce website project.
-
-- Login page UI
-- Responsive styling
-- Frontend development practice
-
-**Project link:** [Find ShopKart in my repositories](https://github.com/Amittutorial?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ More Projects
-
-Discover my latest experiments and applications.
-
-- Web applications
-- Java projects
-- New coding experiments
-
-**Project link:** [Explore my GitHub](https://github.com/Amittutorial)
+* Understand before implementing
+* Practice through projects
+* Debug systematically
+* Improve one iteration at a time
 
 </td>
 </tr>
@@ -130,101 +78,287 @@ Discover my latest experiments and applications.
 
 ---
 
-## 📊 GitHub Analytics
+## `01` — Engineering toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Programming and frontend technologies"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,git,github,vscode&theme=dark" alt="Backend technologies, databases and developer tools"/>
+
+</div>
+
+<details>
+<summary><b>Technology map — areas I'm learning and using</b></summary>
+
+| Domain          | Technologies                    |
+| --------------- | ------------------------------- |
+| Languages       | Java, Python, JavaScript        |
+| Frontend        | HTML, CSS, JavaScript           |
+| Backend         | Node.js, Express.js             |
+| Databases       | MySQL, MongoDB                  |
+| Tools           | Git, GitHub, VS Code            |
+| Problem solving | Java practice, DSA fundamentals |
+
+*The list describes my current learning and project areas; familiarity varies by technology.*
+
+</details>
+
+---
+
+## `02` — Selected work
+
+<div align="center">
+
+<sub>PROJECTS OVER BADGES. IMPLEMENTATION OVER HYPE.</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / 🌦️ Weather GPT
+
+<img src="https://img.shields.io/badge/WEB_APPLICATION-Weather_Intelligence-10172A?style=flat-square&logo=vercel&logoColor=67E8F9" alt="Web application"/>
+
+An interactive weather application exploring a more informative weather experience.
+
+* Weather search and forecast interface
+* Weather intelligence features
+* Profession and activity-oriented tools
+
+<a href="https://weather-gpt-web20.vercel.app/"><b>↗ OPEN LIVE DEMO</b></a>
+
+<br/>
+
+<a href="https://github.com/Amittutorial/WeatherGPT-Web">Source repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / 🛒 ShopKart
+
+<img src="https://img.shields.io/badge/WEB_PROJECT-E_Commerce-10172A?style=flat-square&logo=javascript&logoColor=A78BFA" alt="E-commerce project"/>
+
+An e-commerce website built around a familiar online shopping experience.
+
+* Product browsing and search
+* Product details and cart workflows
+* Checkout and payment-related UI
+
+<a href="https://github.com/Amittutorial/ShopKart-E-Commerce-Website"><b>↗ VIEW SOURCE CODE</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / 🏦 Bank Management System
+
+<img src="https://img.shields.io/badge/JAVA_PROJECT-Banking_Operations-10172A?style=flat-square&logo=openjdk&logoColor=67E8F9" alt="Java banking project"/>
+
+A console-based Java project for practicing programming and banking workflows.
+
+* Account creation
+* Deposits and withdrawals
+* Transfers and additional banking operations
+
+<a href="https://github.com/Amittutorial/Java-Bank-Management-System"><b>↗ VIEW SOURCE CODE</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / 📦 Inventory Management System
+
+<img src="https://img.shields.io/badge/CORE_JAVA-Inventory_Operations-10172A?style=flat-square&logo=openjdk&logoColor=A78BFA" alt="Java inventory project"/>
+
+A console-based project for practicing inventory and billing operations.
+
+* Product management
+* Stock tracking
+* Bill generation and Cash/UPI payment simulation
+
+<a href="https://github.com/Amittutorial/-Java-Inventory-Management-System"><b>↗ VIEW SOURCE CODE</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 / 🏥 Hospital Management System
+
+<img src="https://img.shields.io/badge/PYTHON_PROJECT-Patient_Records-10172A?style=flat-square&logo=python&logoColor=67E8F9" alt="Python hospital project"/>
+
+A console-based patient-record management project.
+
+* Admin login
+* Add, view, search, update, and delete patient records
+* Discharge and billing workflows
+
+<a href="https://github.com/Amittutorial/Python-Hospital-Management-System"><b>↗ VIEW SOURCE CODE</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 06 / ◈ Personal Portfolio
+
+<img src="https://img.shields.io/badge/HTML_PROJECT-Personal_Portfolio-10172A?style=flat-square&logo=html5&logoColor=A78BFA" alt="HTML portfolio project"/>
+
+An introductory portfolio project created to practice HTML and present personal information.
+
+* About section
+* Skills and projects
+* Contact information
+
+<a href="https://github.com/Amittutorial/portfolio"><b>↗ VIEW SOURCE CODE</b></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` — GitHub telemetry
 
 <div align="center">
 
 <a href="https://github.com/Amittutorial">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Amittutorial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64E8FF&icon_color=818CF8&text_color=C9D1D9" alt="GitHub statistics for Amittutorial" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Amittutorial&show_icons=true&hide_border=true&bg_color=070B16&title_color=67E8F9&icon_color=A78BFA&text_color=DCE6F1&rank_icon=github" alt="GitHub statistics"/>
 </a>
-
 <a href="https://github.com/Amittutorial">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amittutorial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64E8FF&text_color=C9D1D9" alt="Most used languages on public repositories" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amittutorial&layout=compact&hide_border=true&bg_color=070B16&title_color=67E8F9&text_color=DCE6F1&langs_count=8" alt="Languages in public repositories"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Amittutorial&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=64E8FF&currStreakLabel=64E8FF" width="90%" alt="GitHub contribution streak" />
+<img width="95%" src="https://streak-stats.demolab.com?user=Amittutorial&hide_border=true&background=070B16&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub streak statistics"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `04` — Contribution signal
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amittutorial&bg_color=0D1117&color=64E8FF&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amittutorial&bg_color=070B16&color=67E8F9&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20BUILD%20TIMELINE" alt="GitHub contribution activity graph"/>
 
 </div>
 
+<sub>Statistics and activity graphs are generated by external services. Displayed values depend on their availability and the public data they can access.</sub>
+
 ---
 
-## 🏆 GitHub Trophies
+## `05` — The development protocol
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amittutorial&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub achievement trophies" />
+<table>
+<tr>
+<td align="center" width="25%">
+
+**01**
+
+<img src="https://img.shields.io/badge/LEARN-0B1020?style=flat-square&logo=bookstack&logoColor=67E8F9" alt="Learn"/>
+
+Understand the problem.
+
+</td>
+<td align="center" width="25%">
+
+**02**
+
+<img src="https://img.shields.io/badge/BUILD-0B1020?style=flat-square&logo=visualstudiocode&logoColor=A78BFA" alt="Build"/>
+
+Write the solution.
+
+</td>
+<td align="center" width="25%">
+
+**03**
+
+<img src="https://img.shields.io/badge/DEBUG-0B1020?style=flat-square&logo=github&logoColor=67E8F9" alt="Debug"/>
+
+Test and investigate.
+
+</td>
+<td align="center" width="25%">
+
+**04**
+
+<img src="https://img.shields.io/badge/REFINE-0B1020?style=flat-square&logo=git&logoColor=A78BFA" alt="Refine"/>
+
+Learn from the result.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## ⌨️ Developer Terminal
+## `06` — Developer console
 
 ```java
 public class AmitVerma {
 
+    private static final String NAME = "Amit Verma";
+    private static final String FOCUS = "Java & Web Development";
+    private static final String PRINCIPLE = "Learn by building";
+
     public static void main(String[] args) {
 
-        String name = "Amit Verma";
-        String primaryLanguage = "Java";
-        String mindset = "Never Stop Learning";
+        System.out.println("Developer : " + NAME);
+        System.out.println("Focus     : " + FOCUS);
+        System.out.println("Principle : " + PRINCIPLE);
 
-        System.out.println("Hello, World!");
-        System.out.println("Developer: " + name);
-        System.out.println("Learning: " + primaryLanguage);
-        System.out.println("Mindset: " + mindset);
+        String[] workflow = {
+            "LEARN",
+            "BUILD",
+            "DEBUG",
+            "IMPROVE"
+        };
 
-        while (true) {
-            learn();
-            practice();
-            build();
-            improve();
+        for (String step : workflow) {
+            System.out.println("[PROCESS] " + step);
         }
-    }
 
-    static void learn() {}
-    static void practice() {}
-    static void build() {}
-    static void improve() {}
+        System.out.println("[STATUS] READY FOR THE NEXT PROJECT");
+    }
 }
 ```
 
 ---
 
-## 🌐 Connect With Me
+## `07` — Open a connection
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=560&height=55&lines=Have+an+idea%3F+Let's+connect.;Every+commit+is+a+chance+to+improve.;Build+something+meaningful." alt="Animated closing message"/>
+
+<br/><br/>
+
 <a href="https://github.com/Amittutorial">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-Explore_My_Work-0B1020?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/amit-verma-b529992ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-
-<a href="https://weather-gpt-web20.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore-Weather_GPT-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Weather GPT" />
+  <img src="https://img.shields.io/badge/LINKEDIN-Let's_Connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="Connect on LinkedIn"/>
 </a>
 
 <br/><br/>
 
-**Thanks for visiting my profile!** ⭐
+<sub>AV / AMIT VERMA</sub>
 
-*Keep learning. Keep building. Keep growing.*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:725AC1,50:345C81,100:0B1020&height=120&section=footer" width="100%" alt="Animated footer banner" />
+<sub>LEARN WITH INTENTION · BUILD WITH PURPOSE · IMPROVE CONTINUOUSLY</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:101B35,100:030712&height=130&section=footer" alt="Midnight gradient footer"/>
 
 </div>
