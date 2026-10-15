@@ -32,6 +32,9 @@
 <a href="https://weather-gpt-web20.vercel.app/">
   <img src="https://img.shields.io/badge/03_LIVE_DEMO-Weather_GPT-0B1020?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Weather GPT"/>
 </a>
+<a href="mailto:amitpatel42203@gmail.com">
+  <img src="https://img.shields.io/badge/04_EMAIL-Get_In_Touch-0B1020?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Email"/>
+</a>
 
 <br/><br/>
 
@@ -86,21 +89,21 @@ I'm Amit Verma, a Computer Science Engineering student interested in Java progra
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,git,github,vscode&theme=dark" alt="Backend technologies, databases and developer tools"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,git,github,githubactions,docker,vscode&theme=dark" alt="Backend technologies, databases, DevOps and developer tools"/>
 
 </div>
 
 <details>
 <summary><b>Technology map — areas I'm learning and using</b></summary>
 
-| Domain          | Technologies                    |
-| --------------- | ------------------------------- |
-| Languages       | Java, Python, JavaScript        |
-| Frontend        | HTML, CSS, JavaScript           |
-| Backend         | Node.js, Express.js             |
-| Databases       | MySQL, MongoDB                  |
-| Tools           | Git, GitHub, VS Code            |
-| Problem solving | Java practice, DSA fundamentals |
+| Domain          | Technologies                                  |
+| --------------- | --------------------------------------------- |
+| Languages       | Java, Python, JavaScript                      |
+| Frontend        | HTML, CSS, JavaScript                         |
+| Backend         | Node.js, Express.js                           |
+| Databases       | MySQL, MongoDB                                |
+| Tools & DevOps  | Git, GitHub, GitHub Actions, Docker, VS Code  |
+| Problem solving | Java practice, DSA fundamentals               |
 
 *The list describes my current learning and project areas; familiarity varies by technology.*
 
@@ -240,11 +243,23 @@ An introductory portfolio project created to practice HTML and present personal 
 
 ---
 
-## `04` — Contribution signal
+## `04` — Contribution signal & Snake Journey
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amittutorial/Amittutorial/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amittutorial/Amittutorial/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Amittutorial/Amittutorial/output/github-snake.svg" width="100%">
+</picture>
+
+<br/><br/>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amittutorial&bg_color=070B16&color=67E8F9&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20BUILD%20TIMELINE" alt="GitHub contribution activity graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amittutorial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -258,40 +273,49 @@ An introductory portfolio project created to practice HTML and present personal 
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-**01**
+**01 / ARCHITECT**
 
-<img src="https://img.shields.io/badge/LEARN-0B1020?style=flat-square&logo=bookstack&logoColor=67E8F9" alt="Learn"/>
+<img src="https://img.shields.io/badge/PLAN-0B1020?style=flat-square&logo=bookstack&logoColor=67E8F9" alt="Plan"/>
 
-Understand the problem.
-
-</td>
-<td align="center" width="25%">
-
-**02**
-
-<img src="https://img.shields.io/badge/BUILD-0B1020?style=flat-square&logo=visualstudiocode&logoColor=A78BFA" alt="Build"/>
-
-Write the solution.
+Understand problem & design architecture.
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-**03**
+**02 / BRANCH**
 
-<img src="https://img.shields.io/badge/DEBUG-0B1020?style=flat-square&logo=github&logoColor=67E8F9" alt="Debug"/>
+<img src="https://img.shields.io/badge/GIT_FLOW-0B1020?style=flat-square&logo=git&logoColor=A78BFA" alt="Branch"/>
 
-Test and investigate.
+Feature branches & semantic commits.
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-**04**
+**03 / BUILD**
 
-<img src="https://img.shields.io/badge/REFINE-0B1020?style=flat-square&logo=git&logoColor=A78BFA" alt="Refine"/>
+<img src="https://img.shields.io/badge/CODE-0B1020?style=flat-square&logo=visualstudiocode&logoColor=67E8F9" alt="Build"/>
 
-Learn from the result.
+Clean, modular implementation.
+
+</td>
+<td align="center" width="20%">
+
+**04 / TEST & CI**
+
+<img src="https://img.shields.io/badge/ACTIONS-0B1020?style=flat-square&logo=githubactions&logoColor=A78BFA" alt="CI"/>
+
+GitHub Actions, linting & verification.
+
+</td>
+<td align="center" width="20%">
+
+**05 / SHIP**
+
+<img src="https://img.shields.io/badge/DEPLOY-0B1020?style=flat-square&logo=vercel&logoColor=67E8F9" alt="Ship"/>
+
+PR review, merge & continuous delivery.
 
 </td>
 </tr>
@@ -347,6 +371,9 @@ public class AmitVerma {
 </a>
 <a href="https://www.linkedin.com/in/amit-verma-b529992ab/">
   <img src="https://img.shields.io/badge/LINKEDIN-Let's_Connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:amitpatel42203@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Direct_Mail-0B1020?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Email Amit"/>
 </a>
 
 <br/><br/>
