@@ -1,387 +1,276 @@
-<!-- ═════════════════════════════════════════════════════════════════
-     AMIT VERMA — ROOT ACCESS / CYBERPUNK DEVELOPER MAINFRAME
-     Visual Architecture: Matrix Dark // Neon Green // Cyber Cyan
-     ═════════════════════════════════════════════════════════════════ -->
+ <div align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050807,35:064E3B,70:0B2530,100:050807&text=AMIT%20VERMA&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=JAVA%20DEVELOPER%20%7C%20DSA%20%7C%20WEB%20TECHNOLOGIES&descSize=14&descColor=6EE7B7&descAlignY=58&animation=fadeIn" alt="Amit Verma Premium Developer Banner"/>
 
-<!-- UPPER HACKING BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:011a0c,50:003815,80:011a0c,100:000000&height=250&section=header&text=AMIT%20VERMA&fontSize=52&fontColor=00FF66&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20ROOT%20ACCESS%20GRANTED%20%7C%20SYSTEMS%20%26%20FULL-STACK%20DEVELOPER&descSize=16&descColor=67E8F9&descAlignY=58" alt="Cyber Mainframe Banner"/>
+### Code with purpose. Solve with logic. Build with passion.
 
-<!-- TERMINAL TYPING ANIMATION -->
-<a href="https://github.com/Amittutorial">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&width=560&height=48&lines=%3E_INITIALIZING+ROOT+SESSION...;%3E_JAVA+%2F%2F+DSA+%2F%2F+SYSTEMS+ARCHITECTURE;%3E_BUILDING+SCALABLE+WEB+APPLICATIONS;%3E_0+ERRORS+%7C+0+WARNINGS+%7C+CLEAN+COMMITS" alt="Hacker Terminal Typing SVG"/>
-</a>
+**Computer Science & Engineering Student | Java Developer | DSA Problem Solver**
 
-<br/>
-
-<!-- SYSTEM STATUS BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-041C0F?style=for-the-badge&logo=gnubash&logoColor=00FF66" alt="System Online"/>
-  <img src="https://img.shields.io/badge/CLEARANCE-ROOT_LEVEL-041C0F?style=for-the-badge&logo=auth0&logoColor=67E8F9" alt="Clearance"/>
-  <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-041C0F?style=for-the-badge&logo=cloudflare&logoColor=00FF66" alt="Firewall Active"/>
-  <img src="https://komarev.com/ghpvc/?username=Amittutorial&style=for-the-badge&color=041C0F&labelColor=000000&label=MAINFRAME_VISITS" alt="Mainframe Visits"/>
-</p>
-
-<!-- QUICK NAVIGATION UPLINKS -->
-<p align="center">
-  <a href="https://github.com/Amittutorial">
-    <img src="https://img.shields.io/badge/01_GITHUB-EXPLORE_CODE-0B1020?style=for-the-badge&logo=github&logoColor=00FF66" alt="Explore GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amit-verma-b529992ab/">
-    <img src="https://img.shields.io/badge/02_LINKEDIN-NETWORK_UPLINK-0B1020?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="https://weather-gpt-web20.vercel.app/">
-    <img src="https://img.shields.io/badge/03_LIVE_DEPLOY-WEATHER_GPT-0B1020?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Weather GPT Demo"/>
-  </a>
-  <a href="mailto:amitpatel42203@gmail.com">
-    <img src="https://img.shields.io/badge/04_DISPATCH-DIRECT_MAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Send Email"/>
-  </a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:003815,100:000000&height=4&section=header" alt="divider"/>
+<a href="https://github.com/Amittutorial"><img src="https://img.shields.io/badge/GitHub-Portfolio-0B1220?style=for-the-badge&logo=github&logoColor=6EE7B7"/></a>
+<a href="https://www.linkedin.com/in/amit-verma-b529992ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/></a>
+<a href="https://weather-gpt-web20.vercel.app/"><img src="https://img.shields.io/badge/Live_Project-Weather_GPT-0B1220?style=for-the-badge&logo=vercel&logoColor=C4B5FD"/></a>
 
 </div>
 
 ---
 
-## 📟 `/* 0x01: SYSTEM_SPECIFICATIONS */`
+## 👨‍💻 About Me
 
-```bash
-┌──(root㉿amitverma)-[/sys/core]
-└─# cat /etc/profile.conf
-================================================================================
-IDENTITY         : Amit Verma
-CLASSIFICATION   : Computer Science & Engineering
-SPECIALIZATION   : Java, Data Structures & Algorithms, Full-Stack Architecture
-CORE_PARADIGM    : "Understand the core mechanics before writing the first line."
-CURRENT_MISSION  : Engineering robust full-stack software & exploring Cloud/DevOps
-MAINFRAME_UPLINK : amitpatel42203@gmail.com
-SECURITY_STATUS  : [SECURE] [NO INTRUSION DETECTED] [CONTINUOUS INTEGRATION: ENABLED]
-================================================================================
-```
+Hi, I'm **Amit Verma**, a Computer Science and Engineering student passionate about programming, software development, and solving problems through logical thinking.
+
+- ☕ **Java Development:** Object-oriented programming and core Java concepts.
+- 🧠 **DSA & Problem Solving:** Practicing algorithms, data structures, and optimization.
+- 💻 **Programming Languages:** Java, C, Python, and JavaScript.
+- 🌐 **Web Development:** HTML, CSS, and JavaScript.
+- 🔌 **API Integration:** Learning to connect applications with APIs and external services.
+- 🛠️ **Developer Tools:** Eclipse IDE, VS Code, Git, and GitHub.
+
+My goal is to strengthen my computer science fundamentals and build practical projects that solve real problems.
+
+## 📊 Technical Skills
+
+*Self-assessed proficiency levels*
+
+| Technology | Proficiency |
+|:--|:--|
+| Java | 95% |
+| C | 85% |
+| Python | 75% |
+| JavaScript | Developing |
+| HTML | Developing |
+| CSS | Developing |
+
+<div>
+
+**Java**
+
+<img src="https://img.shields.io/badge/Java-95%25-16A34A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Self-assessed Java proficiency: 95%"/>
+
+**C Programming**
+
+<img src="https://img.shields.io/badge/C-85%25-16A34A?style=for-the-badge&logo=c&logoColor=white" alt="Self-assessed C proficiency: 85%"/>
+
+**Python**
+
+<img src="https://img.shields.io/badge/Python-75%25-15803D?style=for-the-badge&logo=python&logoColor=white" alt="Self-assessed Python proficiency: 75%"/>
+
+</div>
+
+## 🧰 Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,eclipse,vscode,git,github,postman&theme=dark" alt="Programming languages, Eclipse, VS Code, Git, GitHub and Postman"/>
+
+</div>
+
+| Area | Skills |
+|:--|:--|
+| Programming | Java, C, Python |
+| Web Development | HTML, CSS, JavaScript |
+| Computer Science | DSA, logical reasoning, problem solving |
+| Java Development | Core Java, OOP, Eclipse IDE |
+| API & Testing Tools | API integration, Postman |
+| Version Control | Git, GitHub |
+## 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:064E3B,50:34D399,100:67E8F9" width="100%" alt="Emerald accent"/>
+
+### Engineering Ideas Into Working Software
+
+*A selection of my projects focused on Java development, web technologies, and practical problem solving.*
+
+</div>
+
+---
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Primary Directives
-* **Java & Object-Oriented Design**: Clean class hierarchies, abstraction, and memory discipline.
-* **Algorithmic Problem Solving**: Time and space complexity optimization (DSA).
-* **Modern Web Stacks**: Full-cycle development from reactive frontend to high-speed REST APIs.
-* **Data Persistence**: Relational (MySQL/PostgreSQL) and NoSQL (MongoDB) schemas.
+<h3>🌦️ Weather GPT</h3>
+
+<img src="https://img.shields.io/badge/PROJECT-WEATHER%20INTELLIGENCE-064E3B?style=flat-square&logo=vercel&logoColor=6EE7B7" alt="Weather Intelligence"/>
+
+An interactive weather web application that combines live weather information with AI-assisted insights.
+
+- Current weather and forecast information
+- Air-quality information
+- AI weather assistant
+- Travel and activity-related insights
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+[**↗ Live Demo**](https://weather-gpt-web20.vercel.app/) · [Source Code](https://github.com/Amittutorial/WeatherGPT-Web)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Engineering Protocols
-* **Architect First**: Diagram dependencies and workflows prior to execution.
-* **Semantic Versioning**: Standardized commits (`feat`, `fix`, `refactor`, `perf`).
-* **CI/CD Automation**: GitHub Actions validation on every push and pull request.
-* **Continuous Iteration**: Audit code, benchmark performance, and eliminate technical debt.
+<h3>🛒 ShopKart</h3>
+
+<img src="https://img.shields.io/badge/PROJECT-E--COMMERCE-064E3B?style=flat-square&logo=shopify&logoColor=6EE7B7" alt="E-commerce"/>
+
+An e-commerce web project focused on product discovery and interactive shopping experiences.
+
+- Product browsing and search
+- Interactive shopping cart
+- Login and profile interfaces
+- Responsive shopping UI
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+[**↗ View Repository**](https://github.com/Amittutorial/ShopKart-E-Commerce-Website)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏦 Java Bank Management System</h3>
+
+<img src="https://img.shields.io/badge/PROJECT-CORE%20JAVA-064E3B?style=flat-square&logo=openjdk&logoColor=6EE7B7" alt="Core Java"/>
+
+A Java application covering essential banking operations and account management workflows.
+
+- Login and dashboard
+- Account creation
+- Deposits and withdrawals
+- Money transfers and balance enquiries
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+
+[**↗ View Repository**](https://github.com/Amittutorial/Java-Bank-Management-System)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📦 Java Inventory Management</h3>
+
+<img src="https://img.shields.io/badge/PROJECT-INVENTORY%20OPS-064E3B?style=flat-square&logo=openjdk&logoColor=6EE7B7" alt="Inventory Operations"/>
+
+A console-based Java application for inventory management and billing workflows.
+
+- Product creation and search
+- Stock in/out operations
+- Bill generation
+- Cash and UPI payment options
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/OOP-064E3B?style=flat-square&logoColor=white" alt="Object-oriented programming"/>
+
+[**↗ View Repository**](https://github.com/Amittutorial/Java-Inventory-Management-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏥 Python Hospital Management</h3>
+
+<img src="https://img.shields.io/badge/PROJECT-HOSPITAL%20SYSTEM-064E3B?style=flat-square&logo=python&logoColor=6EE7B7" alt="Hospital Management"/>
+
+A Python project focused on hospital administration and patient record workflows.
+
+- Patient record management
+- Administrative operations
+- Structured record handling
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+
+[**↗ View Repository**](https://github.com/Amittutorial/Python-Hospital-Management-System)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💼 Personal Portfolio</h3>
+
+<img src="https://img.shields.io/badge/PROJECT-PERSONAL%20WEB-064E3B?style=flat-square&logo=html5&logoColor=6EE7B7" alt="Personal Portfolio"/>
+
+A personal web project for showcasing development work, projects, and professional information.
+
+- Project showcase
+- Personal introduction
+- Professional links
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/Web%20Development-064E3B?style=flat-square&logo=googlechrome&logoColor=6EE7B7" alt="Web Development"/>
+
+[**↗ View Repository**](https://github.com/Amittutorial/portfolio)
 
 </td>
 </tr>
 </table>
 
----
-
-## ⚡ `/* 0x02: ARSENAL_AND_CORE_EXPLOITS */`
-
 <div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,tailwind,react,nextjs,nodejs&theme=dark" alt="Core Technologies 1"/>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=express,mysql,mongodb,postgres,docker,git,github,githubactions,vscode,postman&theme=dark" alt="Core Technologies 2"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:064E3B,50:34D399,100:67E8F9" width="100%" alt="Emerald accent"/>
+
+**More projects, experiments, and code explorations**
+
+<a href="https://github.com/Amittutorial?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-Visit%20GitHub-0B1220?style=for-the-badge&logo=github&logoColor=6EE7B7" alt="Explore all repositories"/>
+</a>
 
 </div>
 
-<details>
-<summary><b>📂 [CLICK TO EXPAND] View Categorized Tech Stack Matrix</b></summary>
+## 🧩 My Problem-Solving Approach
+
+<div align="center">
+
+`Understand` → `Plan` → `Code` → `Debug` → `Optimize`
+
+</div>
+
+I focus on understanding the logic behind a problem, choosing an appropriate data structure or algorithm, and improving the solution's time and space complexity.
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Amittutorial/Amittutorial/output/github-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Amittutorial/Amittutorial/output/github-snake.svg">
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/Amittutorial/Amittutorial/output/github-snake.svg"
+      width="100%">
+  </picture>
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amittutorial&show_icons=true&hide_border=true&bg_color=080D0B&title_color=6EE7B7&text_color=E2E8F0&icon_color=67E8F9" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amittutorial&layout=compact&hide_border=true&bg_color=080D0B&title_color=6EE7B7&text_color=E2E8F0" alt="Most used programming languages"/>
+
 <br/>
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `Java` `Python` `JavaScript (ES6+)` `TypeScript` `HTML5` `CSS3` `SQL` `Bash` |
-| **Frontend Frameworks** | `React.js` `Next.js` `Tailwind CSS` `Bootstrap 5` `Redux Toolkit` |
-| **Backend & Runtime** | `Node.js` `Express.js` `RESTful Web APIs` `Java Core/OOP` |
-| **Databases & Cache** | `MongoDB` `MySQL` `PostgreSQL` |
-| **DevOps & Tooling** | `Git` `GitHub` `GitHub Actions` `Docker` `VS Code` `Postman` |
-| **Core Competencies** | `Data Structures & Algorithms` `System Design` `Automated Workflows` |
-
-</details>
-
----
-
-## 🚀 `/* 0x03: DEPLOYED_SYSTEMS (FLAGSHIP PROJECTS) */`
-
-<div align="center">
-<sub>DEPLOYED SYSTEMS OVER HYPOTHETICAL CODE. IMPLEMENTATION OVER HYPE.</sub>
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 / 🌦️ Weather GPT
-
-<img src="https://img.shields.io/badge/AI_APPLICATION-Weather_Intelligence-041C0F?style=flat-square&logo=vercel&logoColor=00FF66" alt="Weather GPT"/>
-
-An interactive weather intelligence suite delivering forecast computations and contextual recommendations.
-
-* Dynamic real-time weather analytics & forecast matrix
-* Activity-tailored environmental insights
-* Deployed on high-availability serverless infrastructure
-
-<a href="https://weather-gpt-web20.vercel.app/"><b>↗ OPEN LIVE SYSTEM</b></a> &nbsp;|&nbsp; <a href="https://github.com/Amittutorial/WeatherGPT-Web">Source Code</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 02 / 🛒 ShopKart
-
-<img src="https://img.shields.io/badge/E_COMMERCE-Scalable_Retail-041C0F?style=flat-square&logo=javascript&logoColor=67E8F9" alt="ShopKart"/>
-
-A full-fledged responsive e-commerce web platform engineered for seamless shopping workflows.
-
-* Search, multi-criteria filtering, and product catalogues
-* Dynamic cart state machine & persistent checkout workflows
-* Clean UI design optimized for high conversion
-
-<a href="https://github.com/Amittutorial/ShopKart-E-Commerce-Website"><b>↗ VIEW SOURCE CODE</b></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 / 🏦 Bank Management System
-
-<img src="https://img.shields.io/badge/CORE_JAVA-Financial_Engine-041C0F?style=flat-square&logo=openjdk&logoColor=00FF66" alt="Bank System"/>
-
-An enterprise-pattern console banking system written in Java with comprehensive transactional integrity.
-
-* Multi-account management with secure credential handling
-* Deposits, withdrawals, and ledger transfer operations
-* Audit logs and transaction history generation
-
-<a href="https://github.com/Amittutorial/Java-Bank-Management-System"><b>↗ VIEW SOURCE CODE</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 04 / 📦 Inventory Management System
-
-<img src="https://img.shields.io/badge/JAVA_OOP-Inventory_Ops-041C0F?style=flat-square&logo=openjdk&logoColor=67E8F9" alt="Inventory System"/>
-
-A production-style inventory tracking and billing console system with simulated financial settlement.
-
-* Real-time SKU tracking and threshold reorder alerts
-* Dynamic invoice generation and calculation
-* Multi-mode settlement simulation (Cash, UPI, Card)
-
-<a href="https://github.com/Amittutorial/-Java-Inventory-Management-System"><b>↗ VIEW SOURCE CODE</b></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 05 / 🏥 Hospital Management System
-
-<img src="https://img.shields.io/badge/PYTHON-Healthcare_Records-041C0F?style=flat-square&logo=python&logoColor=00FF66" alt="Hospital System"/>
-
-A healthcare administration engine written in Python for managing patient records and admission pipelines.
-
-* Role-based administrative authentication
-* Full CRUD database lifecycle for patient clinical files
-* Discharge calculations and automated invoicing
-
-<a href="https://github.com/Amittutorial/Python-Hospital-Management-System"><b>↗ VIEW SOURCE CODE</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 06 / ◈ Personal Portfolio
-
-<img src="https://img.shields.io/badge/WEB_PORTAL-Personal_Portfolio-041C0F?style=flat-square&logo=html5&logoColor=67E8F9" alt="Portfolio"/>
-
-A streamlined personal web portal presenting engineering achievements and contact vectors.
-
-* Modular responsive architecture
-* Interactive project showcase
-* Direct communication integration
-
-<a href="https://github.com/Amittutorial/portfolio"><b>↗ VIEW SOURCE CODE</b></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🐍 `/* 0x04: INTRUSION_HEATMAP & SNAKE_MATRIX */`
-
-<div align="center">
-
-<p align="center">
-  <b>CYBERNETIC CONTRIBUTION GRID: REAL-TIME COMMIT INGESTION</b>
-</p>
-
-<!-- CYBER SNAKE ANIMATION (AUTO-GENERATED BY GITHUB ACTIONS) -->
-<img src="https://raw.githubusercontent.com/Amittutorial/Amittutorial/output/github-snake-dark.svg" alt="Cyberpunk Snake Matrix Grid" width="100%" />
-
-<br/>
-
-<sub>[+] AUTOMATED MATRIX HARVESTER: CRON JOB RUNNING EVERY 12 HOURS VIA GITHUB ACTIONS PIPELINE</sub>
+<img width="80%" src="https://streak-stats.demolab.com?user=Amittutorial&hide_border=true&background=080D0B&ring=6EE7B7&fire=67E8F9&currStreakLabel=6EE7B7&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
 
 </div>
 
----
-
-## 📊 `/* 0x05: TELEMETRY_AND_MAINFRAME_METRICS */`
+## 🤝 Connect With Me
 
 <div align="center">
 
-<!-- CYBERPUNK MATRIX GITHUB STATS & LANGUAGES -->
-<a href="https://github.com/Amittutorial">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Amittutorial&show_icons=true&hide_border=false&border_color=00FF66&bg_color=04090C&title_color=00FF66&icon_color=67E8F9&text_color=A7F3D0&rank_icon=github" alt="Amit's GitHub Stats"/>
-</a>
-<a href="https://github.com/Amittutorial">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amittutorial&layout=compact&hide_border=false&border_color=00FF66&bg_color=04090C&title_color=00FF66&text_color=A7F3D0&langs_count=8" alt="Top Languages"/>
-</a>
+**Always learning. Always building. Always improving.**
 
-<br/><br/>
+<a href="https://github.com/Amittutorial">GitHub</a> · <a href="https://www.linkedin.com/in/amit-verma-b529992ab/">LinkedIn</a> · <a href="mailto:amitpatel42203@gmail.com">Email</a>
 
-<!-- CYBERPUNK MATRIX STREAK STATS -->
-<a href="https://github.com/Amittutorial">
-  <img width="95%" src="https://streak-stats.demolab.com?user=Amittutorial&theme=dark&background=04090C&border=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=67E8F9&currStreakNum=00FF66&sideNums=A7F3D0&dates=64748B" alt="Amit's GitHub Streak"/>
-</a>
-
-</div>
-
----
-
-## 🛡️ `/* 0x06: SECURE_DEV_PIPELINE (GIT PROTOCOL) */`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-**01 / RECON**
-
-<img src="https://img.shields.io/badge/ARCHITECT-041C0F?style=flat-square&logo=diagramsdotnet&logoColor=00FF66" alt="Architect"/>
-
-Specs, system design & issue formulation.
-
-</td>
-<td align="center" width="20%">
-
-**02 / BRANCH**
-
-<img src="https://img.shields.io/badge/GIT_FLOW-041C0F?style=flat-square&logo=git&logoColor=67E8F9" alt="Branch"/>
-
-Isolated feature branch & semantic commits.
-
-</td>
-<td align="center" width="20%">
-
-**03 / COMPILE**
-
-<img src="https://img.shields.io/badge/MODULAR_CODE-041C0F?style=flat-square&logo=visualstudiocode&logoColor=00FF66" alt="Code"/>
-
-Clean, documented, testable implementation.
-
-</td>
-<td align="center" width="20%">
-
-**04 / AUDIT**
-
-<img src="https://img.shields.io/badge/CI_ACTIONS-041C0F?style=flat-square&logo=githubactions&logoColor=67E8F9" alt="Audit"/>
-
-Automated workflows, linters & unit tests.
-
-</td>
-<td align="center" width="20%">
-
-**05 / RELEASE**
-
-<img src="https://img.shields.io/badge/PRODUCTION-041C0F?style=flat-square&logo=vercel&logoColor=00FF66" alt="Release"/>
-
-PR peer review, squash & zero-downtime deploy.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💻 `/* 0x07: KERNEL_EXECUTABLE (AMIT_SYS.JAVA) */`
-
-```java
-package com.amit.cyber;
-
-/**
- * Autonomous Developer Daemon
- * Version: 2.0.4 [STABLE]
- */
-public class AmitVermaKernel {
-
-    private static final String DEVELOPER  = "Amit Verma";
-    private static final String AFFILIATION = "Computer Science & Engineering";
-    private static final String STATUS     = "SYSTEMS_OPERATIONAL";
-
-    public static void main(String[] args) {
-        System.out.println("┌──[ INITIALIZING MAINFRAME CONSOLE ]──┐");
-        System.out.printf("│ IDENTIFIER : %-22s │\n", DEVELOPER);
-        System.out.printf("│ DIVISION   : %-22s │\n", AFFILIATION);
-        System.out.printf("│ TELEMETRY  : %-22s │\n", STATUS);
-        System.out.println("└──────────────────────────────────────┘");
-
-        String[] pipeline = { "RECON", "BRANCH", "DEVELOP", "AUDIT", "DEPLOY" };
-        for (String phase : pipeline) {
-            System.out.println("[EXEC] Pipeline Phase -> " + phase + " : PASS");
-        }
-
-        System.out.println("[SUCCESS] Mainframe ready for high-impact software missions.");
-    }
-}
-```
-
----
-
-## 📡 `/* 0x08: TRANSMIT_ENCRYPTED_SIGNAL */`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=900&color=00FF66&center=true&vCenter=true&width=580&height=50&lines=HAVE+A+PROJECT+OR+IDEA%3F+LET'S+CONNECT.;ENGINEERING+SOFTWARE+WITH+PRECISION.;DISPATCH+A+SIGNAL+BELOW." alt="Hacker Closing Message"/>
-
-<br/><br/>
-
-<a href="https://github.com/Amittutorial">
-  <img src="https://img.shields.io/badge/GITHUB-EXPLORE_CODE-041C0F?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/amit-verma-b529992ab/">
-  <img src="https://img.shields.io/badge/LINKEDIN-ESTABLISH_UPLINK-041C0F?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/>
-</a>
-<a href="mailto:amitpatel42203@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-DIRECT_DISPATCH-041C0F?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Direct Dispatch"/>
-</a>
-
-<br/><br/>
-
-<sub>AV // AMIT VERMA &nbsp;•&nbsp; ROOT CLEARANCE &nbsp;•&nbsp; SYSTEM ONLINE</sub>
-
-<br/><br/>
-
-<!-- LOWER HACKING BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:011a0c,50:003815,80:011a0c,100:000000&height=130&section=footer" alt="Cyberpunk Footer Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:050807,50:064E3B,100:0B2530" alt="Emerald footer"/>
 
 </div>
