@@ -4,7 +4,7 @@
 
 ### Code with purpose. Solve with logic. Build with passion.
 
-**Computer Science & Engineering Student | Java Developer | DSA Problem Solver**
+**Computer Science & Engineering Student | Java Developer | Aspiring Web Developer**
 
 <a href="https://github.com/Amittutorial"><img src="https://img.shields.io/badge/GitHub-Portfolio-0B1220?style=for-the-badge&logo=github&logoColor=6EE7B7"/></a>
 <a href="https://www.linkedin.com/in/amit-verma-b529992ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/></a>
